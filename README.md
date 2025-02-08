@@ -15,40 +15,48 @@ Retail businesses often struggle to understand their sales performance, customer
 📌 Key Performance Indicators (KPIs)
 
 📊 Sales & Revenue Metrics
+
 •	Total Sales 💰
 •	Monthly & Yearly Sales Growth 📈
 •	Top-Selling Products 🏆
 •	Sales Contribution by Category & Sub-Category
 
 📊 Customer Insights
+
 •	Customer Segmentation (Corporate, Consumer, Home Office)
 •	Top Customers by Sales Contribution
 •	Repeat Customer Rate
 
 📊 Profitability Analysis
+
 •	Total Profit 🔢
 •	Profit Margin by Category
 •	Most & Least Profitable Products
 
 📊 Order & Shipping Analysis
+
 •	Orders by Ship Mode 🚚
 •	Delivery Performance (Order Date vs. Ship Date)
 •	Sales by Region & City 🌍
 
 ## 📂 Data Source
+
 The dataset includes:
+
 - **Sales Transactions**: Two years of order data
 - **Customer Information**: Segmentation & buying behavior
 - **Product Details**: Categories, subcategories, and profitability
 - **Order Shipment Data**: Order date, ship date, and shipping mode
 
 ## 🏗️ Tools & Technologies Used
+
 - **Power BI**: For data visualization
 - **DAX (Data Analysis Expressions)**: To create calculated measures
 - **Power Query**: For data transformation & cleaning
 - **Excel/CSV**: Raw data storage format
 
 ## 🚀 How to Use
+
 1. **Download the `.pbix` file** from the repository.
 2. Open it using **Microsoft Power BI Desktop**.
 3. Explore the interactive visuals & insights.
