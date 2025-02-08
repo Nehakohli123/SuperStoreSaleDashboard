@@ -1,5 +1,7 @@
 # SuperStoreSaleDashboard
 This Power BI project analyzes two years of sales data from a retail superstore. It provides insights into sales trends, customer behavior, top-performing products, and other key business metrics. The interactive dashboard helps businesses make data-driven decisions and optimize operations.
+
+
 📌 Problem Statement
 Retail businesses often struggle to understand their sales performance, customer buying patterns, and profitability across different regions. The lack of data-driven insights leads to inefficient decision-making.
 1.	This project aims to create an interactive Power BI dashboard that helps stakeholders:
